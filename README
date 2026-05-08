@@ -1,0 +1,15 @@
+# Tic-Tac-Toe Game (WinForms) 🎮
+
+A classic Tic-Tac-Toe game developed using **C#** and **.NET Framework**. The project focuses on creating a clean UI with a professional wood-themed design and robust game logic.
+
+## ✨ Features
+*   **Custom UI:** Beautiful wood-textured interface designed with Windows Forms.
+*   **Dynamic Logic:** Accurate win/draw detection using custom algorithms.
+*   **Player Interaction:** Visual indicators for turns and status updates.
+*   **Reset Functionality:** Easily restart the game session with a single click.
+
+## 🛠️ Technologies Used
+*   **Language:** C#
+*   **Framework:** .NET Framework (Windows Forms)
+*   **Tools:** Visual Studio
+      
